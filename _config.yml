@@ -1,7 +1,7 @@
 # Site settings
 title: Small Blog
 SEOTitle: 李存浩的博客 | Small Blog
-header-img: img/im3.jpg
+header-img: img/im1.jpg
 email: 1490077290@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 李存浩的博客, AI_learning"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lichenrr/lichenrr.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/im3.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
